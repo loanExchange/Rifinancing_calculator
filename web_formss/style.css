@@ -1,0 +1,151 @@
+
+
+
+/*
+.container .web_form_table table tr th{
+    padding-top: 30px;
+    padding-bottom: 12px;
+    font-size: 24px !important;
+}
+.container .web_form_table{
+    margin-left: 17px;
+}
+.container::before{
+    display: none;
+}
+.container tr{
+    padding-left: 30px;
+}
+.ids{
+  color: #333;
+}
+.container input{
+    border-radius: 5px;
+    text-align: center;
+    background-color: #fff;
+    color: #434a58;
+
+    padding: 5px;
+    box-shadow: 0 5px 3px -3px rgb(0 0 0 / 50%);
+}
+.container i{
+  padding-right: 10px;
+}
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  body {
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+    background-color: #b8c6db;
+    background-image: linear-gradient(315deg, #b8c6db 0%, #f5f7fa 74%);
+
+  }
+  .container{
+    padding-left: 8px !important;
+    width: 400px;
+    padding: 0px;
+    background: #eee;
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgb(0 0 0 / 60%);
+    border-radius: 10px;
+    margin: 19px 0px;
+  }
+
+.container tr>th{
+  padding-top: 8px;
+  padding-bottom: 3px;
+  font-size: 18px;
+  color: #32272c;
+  font-family: CBASansWeb-Bold;
+}
+.container tr>td{
+  padding-top: 2px;
+  padding-bottom: 4px;
+  font-size: 13px;
+  color: #1f252f;
+    
+}
+.current_head{
+    font-weight: bold;
+    color: #333;
+
+}
+.proposed_head{
+    font-weight: bold;
+    color:#333;
+}
+.container a{
+    position: relative;
+    display: inline-block;
+    padding: 18px 25px;
+    color: #fff;
+    font-size: 17px;
+    text-decoration: none;
+    text-transform: capitalize;
+    overflow: hidden;
+    transition: .5s;
+    margin-top: 40px;
+    letter-spacing: 4px;
+    left: 40%;
+    font-weight: 600;
+    border-radius: 30px;
+    background: rgba(255, 186, 60, 1);
+}
+.container a:hover {
+    background: rgba(255, 186, 60, 1);
+    text-decoration: none;
+    color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 0 5px rgb(212, 168, 86),
+                0 0 25px rgb(212, 168, 86),
+                0 0 50px rgb(212, 168, 86),
+                0 0 100px rgb(212, 168, 86);
+  }
+  .container a:active{
+    color: rgba(255, 186, 60, 1);
+  }
+  .container a span {
+    position: absolute;
+    display: block;
+  }
+.main_values input{
+  background-color: #ffba3c73;
+}
+.main_values td{
+  font-weight: 500;
+}
+.interest_val input{
+  background-color: #5eb094;
+}
+.principal_val input{
+  background-color: #5eb094;
+}
+.table_containers{
+	display:inline-block;
+	position: relative;
+	}
+
+.table_containers input{
+	padding-left:15px;
+}
+
+.table_containers i {
+  position: absolute;
+}
+.input-icons {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.input-field .fa-usd:before {
+  content: "\f155";
+  position: relative;
+  left: 24px;
+}
+.container .input-field i{
+  padding-right: 0;
+}
+*/
